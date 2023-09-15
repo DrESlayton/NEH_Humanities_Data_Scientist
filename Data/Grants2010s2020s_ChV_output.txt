@@ -1,0 +1,18 @@
+<<DocumentTermMatrix (documents: 7510, terms: 54329)>>
+Non-/sparse entries: 487426/407523364
+Sparsity           : 100%
+Maximal term length: 77
+Weighting          : term frequency (tf)
+Sample             :
+      Terms
+Docs   american collect cultur histor histori human new project public will
+  2414        4       2      2      2       2     0   2       0      0    0
+  2416        0       0      1      0       1     0   1       1      0    0
+  2419        0       1      0      1       0     0   1       0      0    0
+  2421        1       1      5      3       3     0   0       3      0    0
+  3128        1       0      0      1       2     1   0       5      2    1
+  3134        3       0      3      1       2     0   0       2      0    0
+  3744        0       0      1      3       1     0   1       1      0    0
+  3747        2       2      2      0       2     0   0       0      0    0
+  3748        5       0      0      2       2     0   1       1      0    0
+  3752        0       0      0      0       1     0   0       0      0    0
