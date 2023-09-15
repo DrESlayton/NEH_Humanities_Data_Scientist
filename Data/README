@@ -1,1 +1,9 @@
 This folder houses the data developed during the application. 
+
+### Data Managment Plan 
+
+The data for this project can be accessed through the github page assocaited with this project and maintained by Emma Slayton. 
+
+Data will be maintained for a minimum of one year post the submision deadline (September 16th, 2023). 
+
+File types assocaietd with this project include R files (produced using RStudio 2022.07.1+554) and .tbx files for use in Tabealu software (produced with Tableau 2022.2), as well as .csv and .txt files. 
