@@ -88,14 +88,14 @@ There were also some challenges when searching for key terms in the data related
 ### Code and Processess Used In This Project 
 
 ** RStudio ** References to Code Resources:
-•	TM package (https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
-•	XML package (https://www.omegahat.net/RSXML/Tour.pdf)
+- TM package (https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf)
+- XML package (https://www.omegahat.net/RSXML/Tour.pdf)
      - XML Parser (https://www.rdocumentation.org/packages/XML/versions/3.99-0.14/topics/xmlTreeParse)
      - XML Getnodeset (https://www.rdocumentation.org/packages/XML/versions/1.2-0/topics/getNodeSet )
-•	Wordcloud with R (https://www.rdocumentation.org/packages/wordcloud/versions/2.6/topics/wordcloud)
-•	Colorbrewer R package (https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html)
-•	Finding associations in R (https://www.rdocumentation.org/packages/tm/versions/0.7-11/topics/findAssocs)
-•	Frequency of terms in R (https://www.rdocumentation.org/packages/tm/versions/0.7-11/topics/findFreqTerm)
+- Wordcloud with R (https://www.rdocumentation.org/packages/wordcloud/versions/2.6/topics/wordcloud)
+- Colorbrewer R package (https://rdrr.io/cran/RColorBrewer/man/ColorBrewer.html)
+- Finding associations in R (https://www.rdocumentation.org/packages/tm/versions/0.7-11/topics/findAssocs)
+- Frequency of terms in R (https://www.rdocumentation.org/packages/tm/versions/0.7-11/topics/findFreqTerm)
 
 A more detailed description of processes followed in R can be found in the associated Rscript -> https://github.com/DrESlayton/NEH_Humanities_Data_Scientist/blob/main/Rscript_Tableau_Files/NEH_2023.R 
 
