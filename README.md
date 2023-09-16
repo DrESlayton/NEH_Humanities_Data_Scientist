@@ -45,7 +45,7 @@ To connect these questions to the focus on open access to products and data prod
 
 ![This map showcases the exact geographic locations of NEH funded projects, separated by those granted to ‘Individuals’ and to ‘Institutions’](Visualizations/NEH_Projects_Applicant.jpg)    
 Graph 4: This map showcases the exact geographic locations of NEH funded projects, separated by those granted to ‘Individuals’ and to ‘Institutions’. 
-[To Access the Working Dashboard Visit This Page: [https://public.tableau.com/views/Slayton_NEH_2/NEHProjects?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link] (To start your exploration of the graph, use the year awarded slide on the top left to select 2010. Then hover your cursor over the orange dot at the southern tip of Florida State. This dot represents the institutional funded ‘Laughing at “Lo Politico” project, whose description includes the term access.)
+[To Access the Working Dashboard Visit This Page: https://public.tableau.com/app/profile/emma.slayton/viz/Slayton_NEH_2/NEHProjects?publish=yes (To start your exploration of the graph, use the year awarded slide on the top left to select 2010. Then hover your cursor over the orange dot at the southern tip of Florida State. This dot represents the institutional funded ‘Laughing at “Lo Politico” project, whose description includes the term access.)
 
 
 In order to delve into further into the question of how much funding is shared by county across various project types through different divisions of the NEH, an additional interactive map allows for side-by-side comparison and click through options for those citizens or representatives interested in homing in on their district.
@@ -53,14 +53,14 @@ In order to delve into further into the question of how much funding is shared b
 
 ![These two maps show the comparison between average funding amounts originally and supplementally awarded through the NEH to different congressional districts.](Visualizations/NEH_Funded_By_State.jpg)       
 Graph 5: These two maps show the comparison between average funding amounts originally and supplementally awarded through the NEH to different congressional districts.
-[To Access the Working Dashboard Visit This Page: [https://public.tableau.com/views/Slayton_NEH_1/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](To start your exploration of the graph, use the year awarded slide on the top left to select 2010. This will display an interesting look at how counties that receive less on average for original awards get more as supplemental awards than other counties.)
+[To Access the Working Dashboard Visit This Page: https://public.tableau.com/app/profile/emma.slayton/viz/Slayton_NEH_1/Dashboard2?publish=yes (To start your exploration of the graph, use the year awarded slide on the top left to select 2010. This will display an interesting look at how counties that receive less on average for original awards get more as supplemental awards than other counties.)
 
 
 The above dashboard shown in Graph 5 can be compared against the interactive dashboard seen in Graph 6, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of whether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to identify trends based on geographic location as well, enabling the NEH to spot counties which are exceeding expectations in making their work accessible to the public.
 
 ![This map shows the location of each NEH projects funded between 2010 and 2023. ](Visualizations/NEH_Projects_Location.jpg)    
 Graph 6: This map shows the location of each NEH projects funded between 2010 and 2023. 
-[To Access the Working Dashboard Visit This Page: [https://public.tableau.com/views/Slayton_NEH_3/NEHProjects_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](To start your exploration of this graph, hover over the green dot at the top right corner of the map. This shows a project in Maine’s 2nd Congressional District. You can then compare the location of this project to the funding elements shown in Graph 4).
+[To Access the Working Dashboard Visit This Page: https://public.tableau.com/app/profile/emma.slayton/viz/Slayton_NEH_3/NEHProjects_1?publish=yes (To start your exploration of this graph, hover over the green dot at the top right corner of the map. This shows a project in Maine’s 2nd Congressional District. You can then compare the location of this project to the funding elements shown in Graph 4).
 
 
 
