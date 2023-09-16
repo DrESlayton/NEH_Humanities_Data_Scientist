@@ -62,6 +62,8 @@ Graph 4: These two maps show the comparison between average funding amounts orig
 
 
 
+
+
 The above dashboard shown in Graph 4 can be compared against the interactive dashboard seen in Graph 5, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of whether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to identify trends based on geographic location as well, enabling the NEH to spot counties which are exceeding expectations in making their work accessible to the public.
 
 
@@ -70,6 +72,7 @@ The above dashboard shown in Graph 4 can be compared against the interactive das
 
 Graph 5: This map shows the location of each NEH projects funded between 2010 and 2023. 
 [To Access the Working Dashboard Visit This Page: https://public.tableau.com/views/Slayton_NEH_3/NEHProjects_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link (To start your exploration of this graph, hover over the green dot at the top right corner of the map. This shows a project in Maine’s 2nd Congressional District. You can then compare the location of this project to the funding elements shown in Graph 4).]
+
 
 
 
