@@ -239,7 +239,6 @@ setwd("~/Desktop/NEH/NEH_Grants2020s_Flat")
 data1 <- read.csv("Grants2020s.csv")
 setwd("~/Desktop/NEH/NEH_Grants2010s")
 data2 <- read.csv("Grants2010s.csv")
-setwd("~/Desktop/NEH/NEH_Grants1990s")
 
 # As our column values and varible types are consistent between 2010s and 2020s data, we will start by comparing those datasets in a merge
 # We can merge the data frames vertically
@@ -276,7 +275,6 @@ Corpus2010s2020s_clean <- tm_map(Corpus2010s2020s, stripWhitespace)
 Corpus2010s2020s_clean <- tm_map(Corpus2010s2020s_clean, tolower)
 
 # Remove 'Stop Words': Stop words are common words in a language that are typically filtered out or ignored when processing natural language text or conducting searches. These words are considered to be of little value in text analysis because they occur frequently and don't carry significant meaning on their own. Examples of stop words in English include "the," "and," "in," "of," "is," "at," "on," and "it."
-
 Corpus2010s2020s_clean <- tm_map(Corpus2010s2020s_clean, removeWords, stopwords("english"))
 
 # Stemming the values in the corpus 
@@ -307,8 +305,6 @@ writeLines(Grants2010s2020s_ChV, con = Grants2010s2020s_ChV_file)
 
 
 ### Visualizing the data #####
-
-
 
 ##### Create a plot of term frequency from the Grants2010s2020s Corpus ######
 term_freq <- rowSums(as.matrix(dtm2010s2020s))
