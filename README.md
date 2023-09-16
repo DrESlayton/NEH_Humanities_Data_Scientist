@@ -18,13 +18,13 @@ Graph 1: The above word cloud shows the popularity of terms used to sketch out b
 
 By evaluating NEH project data, through isolating specifics related to the terms 'Open', 'Access', and 'Public' as indicators of a focus on ensured access or public engagement, we can see how the use of “open” resources engages communities. Open resources engage communities, which is evidenced by the hundreds of examples of these terms being used in NEH project descriptions between 2010 and 2023. However, looking at the record of NEH products over time indicates that there is still much that can be done to promote the development of digital content and project resources even after the completion of the grant. When we contrast the NEH product categories of Open Access Resources, Blog Posts, and Web Resources with the more conventional platform for Articles, it becomes apparent that between 2010 and 2023, there has been a shift in online communication methods with the public. However, it is evident that Open Access Resources still lag in this transition. 
 
-![Small multiples line graph of the number of NEH Product types Open Access, Articles, Blog Posts, and Web Resources from 2010 to 2023](Visualizations/NEH_Products.jpg)
+![Small multiples line graph of the number of NEH Product types Open Access, Articles, Blog Posts, and Web Resources from 2010 to 2023](Visualizations/Small_Multiples_for_Product_Type.jpg)
 Graph 2: This displays change in product output from NEH funded projects over the period of 2010 to 2023. The products referenced are Articles, Blog Posts, Open Access, and Web Resources. Be aware that the steep decline towards the end of the lines may be tied to recently awarded projects not yet having products to share. 
 
 Given the commitment of numerous government agencies to promote, and in certain instances mandate, the creation of Open Access Materials and making data accessible, the NEH is presented with the opportunity to take the lead in shaping novel approaches that inspire humanities researchers, including those less familiar with digital outputs, to actively participate in this endeavor. Motivating researchers to share their information with a wider audience may require nothing more than highlighting the advantages of open access materials and data sources, which can enhance community involvement and engagement with humanities projects. Additional review of terms from NEH project descriptions, as shown in the Graph 3, does suggest community access is important to researchers, as there is a clear focus on the inclusion of public needs. This encompasses a multitude of instances where terms such as 'community,' 'communities,' 'stakeholder,' and 'engagement' are frequently used. Interestingly, when we compare the focus of project descriptions on these concepts, projects are more focused on communities - or people served by or engaged with a project - over stakeholders - those citizens who are active participants in the research process. When project awardees actively engage with the public as communities rather than merely as stakeholders, it could signal innovative methods for assessing the impact of open access to NEH-funded data on the overall effectiveness of NEH projects.
 
 
-![Bar Chart showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Word_Frequency_bar_chart.jpg)
+![Bar Chart showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Term_Frequency_Bar_Chart.jpg)
 Graph 3: The Frequency of set terms referenced NEH project descriptions. These terms include ‘community’, ‘public’, ‘access’, ‘open’, ‘engagement’, and ‘stakeholder’.
 
 ### The Ethics of Access and Privacy surounding with Open Data 
@@ -43,11 +43,7 @@ Understanding the impact of humanities and making that research open also involv
 To connect these questions to the focus on open access to products and data produced by NEH projects, the following interactive visualization explores both the location of projects awarded but also links through a hover feature information on the description and award type. In addition to showcasing the description, the hover feature will also indicate whether the terms (or variations of) 'community', 'open', or 'access' appear in the description. This will also help to quickly define which projects are on track to meet open access and information sharing goals, and which current projects need support.
 
 
-
-<div class='tableauPlaceholder' id='viz1694836377031' style='position: relative'><noscript><a href='#'><img alt='NEH ProjectsApplicant Type By Devision And Year  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_2&#47;NEHProjects&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Slayton_NEH_2&#47;NEHProjects' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_2&#47;NEHProjects&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
-
-
-     
+![This map showcases the exact geographic locations of NEH funded projects, separated by those granted to ‘Individuals’ and to ‘Institutions’](Visualizations/NEH_Projects_Applicant.jpg)    
 Graph 4: This map showcases the exact geographic locations of NEH funded projects, separated by those granted to ‘Individuals’ and to ‘Institutions’. 
 [To Access the Working Dashboard Visit This Page: https://public.tableau.com/views/Slayton_NEH_2/NEHProjects?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link (To start your exploration of the graph, use the year awarded slide on the top left to select 2010. Then hover your cursor over the orange dot at the southern tip of Florida State. This dot represents the institutional funded ‘Laughing at “Lo Politico” project, whose description includes the term access.)]
 
@@ -55,20 +51,16 @@ Graph 4: This map showcases the exact geographic locations of NEH funded project
 In order to delve into further into the question of how much funding is shared by county across various project types through different divisions of the NEH, an additional interactive map allows for side-by-side comparison and click through options for those citizens or representatives interested in homing in on their district.
 
 
-<div class='tableauPlaceholder' id='viz1694836334457' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_1&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Slayton_NEH_1&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_1&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>         
-Graph 4: These two maps show the comparison between average funding amounts originally and supplementally awarded through the NEH to different congressional districts.
+![These two maps show the comparison between average funding amounts originally and supplementally awarded through the NEH to different congressional districts.](Visualizations/NEH_Funded_By_State.jpg)       
+Graph 5: These two maps show the comparison between average funding amounts originally and supplementally awarded through the NEH to different congressional districts.
 [To Access the Working Dashboard Visit This Page: https://public.tableau.com/views/Slayton_NEH_1/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link. (To start your exploration of the graph, use the year awarded slide on the top left to select 2010. This will display an interesting look at how counties that receive less on average for original awards get more as supplemental awards than other counties.)]
 
 
 
+The above dashboard shown in Graph 5 can be compared against the interactive dashboard seen in Graph 6, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of whether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to identify trends based on geographic location as well, enabling the NEH to spot counties which are exceeding expectations in making their work accessible to the public.
 
-The above dashboard shown in Graph 4 can be compared against the interactive dashboard seen in Graph 5, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of whether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to identify trends based on geographic location as well, enabling the NEH to spot counties which are exceeding expectations in making their work accessible to the public.
-
-
-
-<div class='tableauPlaceholder' id='viz1694836044065' style='position: relative'><noscript><a href='#'><img alt='  NEH ProjectsLocation of Each NEH Funded Project Between 2010 and 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_3&#47;NEHProjects_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Slayton_NEH_3&#47;NEHProjects_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sl&#47;Slayton_NEH_3&#47;NEHProjects_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-
-Graph 5: This map shows the location of each NEH projects funded between 2010 and 2023. 
+![This map shows the location of each NEH projects funded between 2010 and 2023. ](Visualizations/NEH_Projects_Location.jpg)    
+Graph 6: This map shows the location of each NEH projects funded between 2010 and 2023. 
 [To Access the Working Dashboard Visit This Page: https://public.tableau.com/views/Slayton_NEH_3/NEHProjects_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link (To start your exploration of this graph, hover over the green dot at the top right corner of the map. This shows a project in Maine’s 2nd Congressional District. You can then compare the location of this project to the funding elements shown in Graph 4).]
 
 
@@ -76,8 +68,8 @@ Graph 5: This map shows the location of each NEH projects funded between 2010 an
 
 ### Exploration of the NEH Data 
 
-![Bar Chart showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Word_Frequency_Table.jpg)
-Graph 6: This table showcases the frequency of a set list of terms based on their presence in NEH project descriptions funded between 2010 and 2023.
+![Table showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Word_Frequency_Table.jpg)
+Graph 7: This table showcases the frequency of a set list of terms based on their presence in NEH project descriptions funded between 2010 and 2023.
 
 Though this project begins to explore the relationship between Open Data, Open Access Resources, and community interests existing in NEH projects, it would be impossible to conduct a full evaluation in the short timeframe provided for this work. Given more time with this data, a broader assessment of this information could unlock the presence of themes related to Diversity, Equity, Inclusion, and Accessibility in ways that were difficult to quickly scope, due to either missing or messy data.
 
@@ -105,17 +97,17 @@ In developing visualizations, sometimes even if a software is proprietary it can
 
 All the graphs (except the word cloud) linked above were made using the tool Tableau. A short description of the process for making these graphs is shared below:
 
-(Graph 1) Small multiples line graph of the number of dimension data NEH Product types (rows) Open Access, Articles, Blog Posts, and Web Resources from 2010 to 2023 expressed in years (columns).
+(Graph 2) Small multiples line graph of the number of dimension data NEH Product types (rows) Open Access, Articles, Blog Posts, and Web Resources from 2010 to 2023 expressed in years (columns).
 
-(Graph 2) Bar Chart built from the measure data count (rows) of dimension data taken from Term labels (column) 'community/communities', 'public', 'access', 'open', 'engagement', 'stakeholder'.
+(Graph 3) Bar Chart built from the measure data count (rows) of dimension data taken from Term labels (column) 'community/communities', 'public', 'access', 'open', 'engagement', 'stakeholder'.
 
-(Graph 3) Interactive dashboard showcasing the location of projects (measure data, geographic longitude and latitude data) filtered by dimension data year and also applicant type (dimension data).
+(Graph 4) Interactive dashboard showcasing the location of projects (measure data, geographic longitude and latitude data) filtered by dimension data year and also applicant type (dimension data).
 
-(Graph 4) A interactive dashboard with side-by-side maps showcasing the location of counties with projects funded, either in original funding awards or supplemental funding awards. These graphs also share a filter which enables drop down selection of NEH Division Type as well as to scroll through funding year by year.
+(Graph 5) A interactive dashboard with side-by-side maps showcasing the location of counties with projects funded, either in original funding awards or supplemental funding awards. These graphs also share a filter which enables drop down selection of NEH Division Type as well as to scroll through funding year by year.
 
-(Graph 5) Interactive map that showcases the location of projects (dimension data) as well as details in hover feature the county in which the project is located as well as dimension data taken from Term labels 'community/communities', 'access', 'open'.
+(Graph 6) Interactive map that showcases the location of projects (dimension data) as well as details in hover feature the county in which the project is located as well as dimension data taken from Term labels 'community/communities', 'access', 'open'.
 
-(Graph 6) Heat Table showing counts of dimension data Term labels (rows) by measure data year (columns) for 'community/communities', 'public', 'access', 'open', 'engagement', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'.
+(Graph 7) Heat Table showing counts of dimension data Term labels (rows) by measure data year (columns) for 'community/communities', 'public', 'access', 'open', 'engagement', 'stakeholder', 'Native American', 'African American / Black', 'Hispanic / Latinx'.
 
 ** Open Refine **
 
