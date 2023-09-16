@@ -7,6 +7,7 @@ While the White House has declared 2023 the 'Year of Open Science,' we can equal
 Understanding and appreciating the projects funded by the NEH is pivotal to nurturing a thriving ecosystem of ideas, and it is clear from evaluating NEH project descriptions that they have done so. Studying the words that make up these descriptions shows an emphasis on preserving and collecting information, developing opportunities for education through exabits in museums and content in classrooms. Defining and comprehending open data allows us to address ethical and privacy concerns tied to data, which are directly relevant to congressional objectives aimed at ensuring public access to data funded by taxpayers.
 
 ![Word Cloud depicting weight of terms based on their frequency in the 2010s and 2020s NEH Project data sets.](Visualizations/WordCloud_2010s2020s.jpeg)
+
 Graph 1: The above word cloud shows the popularity of terms used to sketch out big ideas in humanities research.
 
 
