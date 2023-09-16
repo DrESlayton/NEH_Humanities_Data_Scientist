@@ -24,7 +24,7 @@ Given the commitment of numerous government agencies to promote, and in certain 
 
 
 ![Bar Chart showing count of mentions in 2010 to 2020s NEH data of Open, Access, Public, Stakeholder, Community / Communities](Visualizations/Word_Frequency_bar_chart.jpg)
-Graph 3: The Frequency of set terms referenced NEH project descriptions. These terms include ‘community’, ‘public’, ‘access’, ‘open’, ‘engagement’, and ‘stakeholder’. ![image]
+Graph 3: The Frequency of set terms referenced NEH project descriptions. These terms include ‘community’, ‘public’, ‘access’, ‘open’, ‘engagement’, and ‘stakeholder’.
 
 ### The Ethics of Access and Privacy surounding with Open Data 
 
