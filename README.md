@@ -61,9 +61,6 @@ Graph 4: These two maps show the comparison between average funding amounts orig
 
 
 
-
-
-
 The above dashboard shown in Graph 4 can be compared against the interactive dashboard seen in Graph 5, which shows the location of each project and through the interactive hover feature offers the name of the county the project is located in and the addition of whether the project description includes the core terms of 'community', 'open', or 'access'. By shifting between the two graphs to ascertain specifics of projects within each county it may become easier to identify trends based on geographic location as well, enabling the NEH to spot counties which are exceeding expectations in making their work accessible to the public.
 
 
